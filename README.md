@@ -1,5 +1,6 @@
 <p align="center">
-<img alt="image-removebg-preview" src="https://github.com/user-attachments/assets/5f0df32b-d4a6-4ba9-8a4d-ce39a44760fe" />
+<img alt="image-removebg-preview (1)" src="https://github.com/user-attachments/assets/0cc89dc3-4e77-41e8-859f-510cbb23b149" />
 </p>
-<p align="center">$\color{#3c080a}{{But...}}$ $\color{#620301}{{Can}}$ $\color{#800603}{{you}}$ $\color{#c62508}{{keep}}$ $\color{#f35e02}{{up?}}$<p>
-<p align="center">$\color{#fc7c01}{{Lets}}$ $\color{#ff9a00}{{Ride.}}$<p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Trade+Winds&pause=1000&color=F73F00AC&center=true&width=435&lines=%22But...+can+you+keep+up%3F" alt="Typing SVG" /></a>
